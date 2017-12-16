@@ -11,6 +11,7 @@ Reverse Engineering using Radare2
     - [Useful commands](http://exitno.de/reversing/)
     - [R2 Cheatsheet](https://github.com/zxgio/r2-cheatsheet)
     - [Radare2 tutorial](radare2_tutorial.pdf)
+    - [A JOURNEY INTO RADARE 2 – PART 1: SIMPLE CRACKME](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
 
 - Reverse Engineering with Radare2
     - [Intro-to-Reverse-Engineering-and-Debugging-with-Radare2](Intro-to-Reverse-Engineering-and-Debugging-with-Radare2.pdf)
@@ -20,6 +21,7 @@ Reverse Engineering using Radare2
     - [Analysing-crackme03-with-radare2](analysing-crackme03-with-radare2.md)
     - [Diving Into Radare2](http://blog.devit.co/diving-into-radare2/)
     - [Binary Bomb with Radare2 - Prelude](https://unlogic.co.uk/2016/04/12/Binary%20Bomb%20with%20Radare2%20-%20Prelude/index.html)
+    - [REVERSE ENGINEERING A GAMEBOY ROM WITH RADARE2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2/)
 
 - Radare2 Explorations
     - [Tutorial files repository](https://github.com/monosource/radare2-explorations-binaries)
