@@ -15,7 +15,7 @@ Reverse Engineering using Radare2
 
 - Reverse Engineering with Radare2
     - [Intro-to-Reverse-Engineering-and-Debugging-with-Radare2](Intro-to-Reverse-Engineering-and-Debugging-with-Radare2.pdf)
-    - [Simple exmaple with Radare2](simple-example-with-radare2.md)
+    - [Simple example with Radare2](simple-example-with-radare2.md)
     - [Mystery bin with Radare2](mystery-bin-with-radare2.md)
     - [Defeating-IOLI-with-radare2](defeating-IOLI-with-radare2.md)
     - [Analysing-crackme03-with-radare2](analysing-crackme03-with-radare2.md)
