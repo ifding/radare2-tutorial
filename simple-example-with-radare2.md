@@ -1,7 +1,7 @@
 
 # Reverse Engineering With Radare2
 
-In [the last artice](introduction_to_radare2.md), we explore the basics of radare2. We are going to write a simple program, and then disassemble it, to see what is really doing in the processor.
+In [the last article](introduction_to_radare2.md), we explore the basics of radare2. We are going to write a simple program, and then disassemble it, to see what is really doing in the processor.
 
 Not all architectures have the same set of instructions, the most important difference is between Reduced Instruction Set Computing (embedded systems, PMDs ...) and Complex Instruction Set Computing (clusters, desktop computing ...). An example of RISC could be ARM and CISC could be x86.
 

@@ -15,7 +15,7 @@ Reverse Engineering using Radare2
 
 - Reverse Engineering with Radare2
     - [Intro-to-Reverse-Engineering-and-Debugging-with-Radare2](Intro-to-Reverse-Engineering-and-Debugging-with-Radare2.pdf)
-    - [Simple exmaple with Raddare2](simple-example-with-radare2.md)
+    - [Simple example with Radare2](simple-example-with-radare2.md)
     - [Mystery bin with Radare2](mystery-bin-with-radare2.md)
     - [Defeating-IOLI-with-radare2](defeating-IOLI-with-radare2.md)
     - [Analysing-crackme03-with-radare2](analysing-crackme03-with-radare2.md)
@@ -36,6 +36,6 @@ Reverse Engineering using Radare2
     - [Training Materials of Practical Reverse Engineering using Radare2](https://github.com/s4n7h0/Practical-Reverse-Engineering-using-Radare2)
     - [A reversing series with radare2](https://github.com/bluec0re/reversing-radare2)
     - [Dirty COW (CVE-2016-5195)](https://dirtycow.ninja/)
-    
+
 - Others
     - [Solving Radare2 Explorations Tutorial 2 with angr](https://monosource.github.io/2016/06/solving-tut2-angr)

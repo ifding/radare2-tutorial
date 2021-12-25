@@ -1,7 +1,7 @@
 
 # An Introduction to radare2
 
-Radare2 (also known as r2) is a complete framework for reverse engineering and analyzing binaries; composed of a set of small utilities that can be used together or indendently from the command line. Other reverse engineering tools include [IDA](https://www.hex-rays.com/products/ida/) and [Hopper](http://www.hopperapp.com/).
+Radare2 (also known as r2) is a complete framework for reverse engineering and analyzing binaries; composed of a set of small utilities that can be used together or independently from the command line. Other reverse engineering tools include [IDA](https://www.hex-rays.com/products/ida/) and [Hopper](http://www.hopperapp.com/).
 
 Official repository of radare2 is [here](https://github.com/radare/radare2). On Mac OSX, `brew install radare2` will do the job. For other OS, check out the installation page on radare.org.
 
@@ -18,7 +18,7 @@ If everything goes well, you'll find multiple tools in your path:
 
 ## Introduction
 
-**Links to other cheatsheets and documentations (which you may like):** 
+**Links to other cheatsheets and documentations (which you may like):**
 
   * [Cheat sheet](https://github.com/radare/radare2/blob/master/doc/intro.md)
   * [Official Radare2 Book](http://maijin.gitbooks.io/radare2book/content/)
@@ -47,7 +47,7 @@ Use this to learn and discover r2. When in doubt feel free to consult wikis, gui
 
 A `p?` shows you the help about the different print commands, `pd?` which commands are available for printing disassemblies of different sources, etc.
 
-Also usually all mneumonics are dervied from their longer form.
+Also usually all mnemonics are derived from their longer form.
 
 Usually this is the workflow you would follow:
 

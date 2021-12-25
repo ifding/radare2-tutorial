@@ -5,9 +5,9 @@ In this post I am going to show how to analyse crackme with radare2 framework. T
 ```sh
 # nasm -f bin crackme.03.asm
 # chmod +x crackme.03
-./crackme.03 
+./crackme.03
 Try to find the string of success and make me print it.
-``` 
+```
 
 ## Preliminary analysis
 
@@ -64,7 +64,7 @@ idx=01 vaddr=0x00010000 paddr=0x00000000 sz=52 vsz=52 perm=m-rw- name=ehdr
 
 A small file, with no symbols, no strings, no sections. Looks like a hand-crafted binary!
 
-## Dynamci analysis
+## Dynamic analysis
 
 Now when we have some information about binary let's say with dynamic analysis. We'll load it up in r2 using the r2 command:
 ```nasm
@@ -255,7 +255,7 @@ What is at 0x1008a?
 [0x00010020]> ps 0x38 @0x1008a
 Try to find the string of success and make me print it.
 
-[0x00010020]> 
+[0x00010020]>
 ```
 
 We should add a comment at 0x1008a:
@@ -530,14 +530,10 @@ Warning: Cannot initialize dynamic strings
 
 Let's check that everything is working:
 ```sh
-# ./crackme.03 
+# ./crackme.03
 Omedetou
 ```
 
 ## Reference
 
 - [Defeating crackme03 with radare2](https://dustri.org/b/defeating-crackme03-with-radare2.html)
-
-
-
-
